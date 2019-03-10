@@ -9,7 +9,7 @@ This project is aimed to develop a big data processing system design accompanied
 * itertools (for iterations)
 * collections (for Collocations)
 ### Project Briefing
-This project is regarding d exploratort data analysis andata cleansing. So, here the primary aim is to find and fix incorrect and missing data in the dataset and do proper imputation into them. After, data cleasing and imputation, proper insigts is expected through sophisticated ML technique.
+This project is regarding the exploratory data analysis and ata cleansing. So, here the primary aim is to find and fix incorrect and missing data in the dataset and do proper imputation into them. After, data cleasing and imputation, proper insigts is expected through sophisticated ML technique.
 #### Input Files: 
 raw_data.csv
 #### Output files:
